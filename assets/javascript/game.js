@@ -40,6 +40,6 @@ $(".gems").on("click", function () {
     $("#userTotal").text(userTotal);
     win();
     loss();
-})
+});
 
 
