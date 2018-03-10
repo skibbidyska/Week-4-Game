@@ -1,6 +1,6 @@
 # Jewel Game
 
-###About the Jewel Game
+### About the Jewel Game
 
 A simple jQuery game in which the user will click on the 4 jewels to attempt matching the randomly generated number that is presented to the user.
 
